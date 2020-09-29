@@ -1,0 +1,83 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+
+article {
+	padding-bottom: 26px;
+}
+
+main {
+	width: 800px;
+	margin: 0px auto;
+}
+
+h1 {
+	border-bottom: 1px solid black;
+	padding-bottom: 20px;
+	font-size: 36px;
+	line-height: 36px;
+}
+
+li {
+	padding: 5px 0px 5px 0px;
+	font-size: 20px;
+}
+
+ul {
+	padding-bottom: 40px;
+}
+
+ol li {
+	padding-bottom: 20px;
+}
+
+.imgcar {
+	height: 750px;
+	width: 750px;
+}
+
+.imggehakt {
+	height: 600px;
+	width: 600px;
+}
+
+.tip {
+	background-color: #def6ed;
+	border-radius: 4px;
+	padding: 25px;
+	text-align: center;
+}
+
+#bereid {
+	font-size: 32px;
+	line-height: 32px;
+}
+
+#A6969 {
+	line-height: 32px;
+	font-size: 24px;
+}
+
+#ingr {
+	font-size: 32px;
+	line-height: 32px;
+}
+
+.pagina {
+		text-align: center;
+		padding: 5px;
+
+}
+
+.pagina a.active {
+	background-color: aqua;
+	color: white;
+}
+
+.pagina a {
+	color: black;
+	padding: 16px 8px;
+	text-decoration: none;
+}
